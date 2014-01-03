@@ -1,0 +1,24 @@
+{
+  "name": "jquery.event.scrollizzle",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/wwwsevolod/jquery.event.scrollizzle",
+  "authors": [
+    "wwwsevolod <www@sevolod.ru>"
+  ],
+  "description": "Event would fired when user scrolled more than setted percentage of page",
+  "keywords": [
+    "jquery",
+    "event",
+    "scroll",
+    "infinitescroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
