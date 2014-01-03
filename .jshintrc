@@ -1,0 +1,28 @@
+{
+    "passfail"      : false,
+    "maxerr"        : 65000,
+    "predef": [
+        "require",
+        "define",
+        "module",
+        "__dirname"
+    ],
+    "browser"       : true,
+    "jquery"        : true,
+    "devel"         : false,
+    "curly"         : true,
+    "forin"         : true,
+    "latedef"       : true,
+    "newcap"        : true,
+    "noarg"         : true,
+    "noempty"       : true,
+    "nonew"         : true,
+    "undef"         : true,
+    "trailing"      : true,
+    "indent"        : 4,
+    "unused"        : true,
+    "eqeqeq"        : false,
+    "plusplus"      : false,
+    "regexp"        : false,
+    "es5"           : false
+}
